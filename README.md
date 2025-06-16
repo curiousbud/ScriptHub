@@ -42,8 +42,8 @@ cd ScriptHub
 - Add your script to the relevant language folder.
 - Follow standard coding guidelines (e.g., PEP 8 for Python).
 - Document your code with comments or a small README if needed.
-For more, see CONTRIBUTING.md.
+For more, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 # 📜 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the [MIT](./LICENSE.md) License — see the LICENSE file for details.
 
