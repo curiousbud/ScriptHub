@@ -55,7 +55,7 @@ Thank you for considering a contribution to **ScriptHub**! This project thrives 
      - Your PR has a descriptive title.
 
 # 🧭 Code of Conduct
-Be respectful, helpful, and constructive. All interactions must follow the Code of Conduct.
+Be respectful, helpful, and constructive. All interactions must follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 # 🙌 Need Help?
 Open a Discussion or create an issue. We’d love to help!
